@@ -2,7 +2,7 @@ This script converts viparr3 parameters for small molecule ligands into a CHARMM
 
 USAGE:
 
-python thisscriptname.py input/viparrdir output/charmmdir
+python viparr2charmm.py input/viparrdir output/charmmdir
 
 Optionally, placing a stream file obtained from paramchem in the viparr3 directory will change atom names and types.
 
